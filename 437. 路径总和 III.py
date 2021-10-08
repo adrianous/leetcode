@@ -16,8 +16,6 @@ class Solution:
         prefix[0] = 1
 
         def dfs(node: TreeNode, curr):
-            if not node:
-                return 0
             ret = 0
             curr += node.val
             ret += prefix[curr - targetSum]
