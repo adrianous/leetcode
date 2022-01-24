@@ -9,13 +9,6 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="rongtong@192.168.123.12:22">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="rongtong@192.168.20.229:22">
         <serverdata>
           <mappings>
@@ -24,6 +17,13 @@
         </serverdata>
       </paths>
       <paths name="unitree@192.168.100.2:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="unitree@192.168.123.12:22">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
